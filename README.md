@@ -1,6 +1,6 @@
 # 🤖 ELZ Assistant — دستیار هوشمند Iron Man
 
-> نسخه PRO با کد `M.ELZHOTS` فعال می‌شود
+
 
 ---
 
