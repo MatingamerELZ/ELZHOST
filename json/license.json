@@ -1,0 +1,34 @@
+{
+  "pro_codes": [
+    "M.ELZHOTS"
+  ],
+  "activated_devices": [],
+  "free_features": [
+    "voice_command",
+    "basic_apps",
+    "alarm",
+    "timer",
+    "calculator",
+    "notes"
+  ],
+  "pro_features": [
+    "voice_command",
+    "basic_apps",
+    "alarm",
+    "timer",
+    "calculator",
+    "notes",
+    "contacts_access",
+    "file_manager",
+    "sms_send",
+    "call_control",
+    "camera_control",
+    "advanced_settings",
+    "ai_chat",
+    "system_info",
+    "app_control",
+    "battery_monitor",
+    "wifi_control",
+    "bluetooth_control"
+  ]
+}
